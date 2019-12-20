@@ -1,2 +1,4 @@
-# firesidedevchat
-True life developer stories podcast
+# Fireside devchat
+True life developer stories
+
+![Screenshot](./images/cover.png);
