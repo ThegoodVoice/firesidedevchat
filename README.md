@@ -1,4 +1,4 @@
 # Fireside devchat
 True life developer stories
 
-![Screenshot](./images/cover.png);
+![Screenshot](./images/cover.png)
